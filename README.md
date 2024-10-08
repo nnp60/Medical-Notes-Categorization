@@ -4,7 +4,7 @@ I utilized text classification techniques to see how well notes that are taken b
 
 ## Context
 
-The vast healthcare industry is an intricate and vital fabric of the livelihoods of billions across the world. Based on technological capabilities, different parts of the world vary in their tactics in making hospitals run more efficiently and treating patients more optimally among several other use cases.
+The vast healthcare industry is an intricate and vital fabric of the livelihoods of billions across the world. Based on technological capabilities, different parts of the world vary in their tactics in making hospitals run more efficiently and treating patients more optimally. 
 
 Extensive and time consuming paperwork is one of the largest areas of innovation happening in today's world. Doctors on average spend more time per day updating patient health records than actually spending time with their patients. This brief study showcases the importance and committment physicians have for maintaining clinical documentation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4507919/. 
 
