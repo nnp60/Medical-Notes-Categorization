@@ -38,7 +38,7 @@ Our fine-tuned BERT model to classify diverse patient notes into different medic
 
 If executed at a preliminary level or once a higher accuracy is achieved, the following should be done.
 
-  1. In order to ensure privacy and security of confidential patient data, a thorough check of both existing and new hospital data frameworks should be done. Accessability to the data as well as viewing and editing controls should be in compliance federal, state, and local laws.   
+  1. In order to ensure privacy and security of confidential patient data, a thorough check of both existing and new hospital data frameworks should be done. Accessability to the data as well as viewing and editing controls should be in compliance with federal, state, and local laws.   
 
   2. A well-thought-out timeline with metrics and guardrails should be presented to monitor the changes of such a model. It is imperative that hospitals and relative stakeholders start with a small sample of patients for their experimental trial of the model before exposing the entire patient notes database to the model. 
 
